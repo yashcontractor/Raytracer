@@ -10,7 +10,7 @@ A basic raytracing model includes a camera that is placed in a world and rays ar
 
 <h1 align="left">Examples:</h1>
 This image represents one of the output .ppm files produced by the program
-
+ 
 <p align="center">
   <img src="https://github.com/yashcontractor/Raytracer/blob/main/test%20image%201.png" />
 </p>
