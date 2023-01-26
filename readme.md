@@ -9,7 +9,7 @@ Due to my recent growing interest in 3D graphics, I decided to take the challeng
 A basic raytracing model includes a camera that is placed in a world and rays are caseed from the camera's position to points on an imaginary plane. A ray is used to determine what light would be going towards the camera at that specific point and directions. Each ray represents a pixel in the output image and the resulting color of the ray determines the color output for the pixel.
 
 <h1 align="left">Examples:</h1>
+This image represents one of the output .ppm files produced by the program
 <p align="center">
   <img src="https://github.com/yashcontractor/Raytracer/blob/main/test%20image%201.png" />
-  This image represents one of the output .ppm files produced by the program
 </p>
