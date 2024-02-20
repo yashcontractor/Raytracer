@@ -10,5 +10,5 @@ Raytracing is widely used in 3D Computer Graphics and is commonly applied when c
 This image represents one of the output .ppm files produced by the program
 <p align="center"> </p>
 <p align="center">
-<!--   <img src="https://github.com/yashcontractor/Raytracer/blob/main/test%20image%201.png" /> -->
+  <img src="https://github.com/yashcontractor/Raytracer/blob/main/test%20image%201.png" />
 </p>
